@@ -19,10 +19,6 @@ Required libraries to pip install:
 
 - sklearn
 
-  
-```bash
-pip install -r requirements.txt
-```
 
 ## Installation
 
