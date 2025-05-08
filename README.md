@@ -1,5 +1,5 @@
 # Unsupervised Machine Learning Project
-This is a short project that using sklearn to cluster cypto currency % changes based on how they move over 24 hours and over 7 days. It also uses PCA to compress and cluster data
+This is a short project that using sklearn to cluster cyptocurrency % changes based on how they move over 24 hours and over 7 days. It also uses PCA to compress and cluster data
 
 
 ## Features
